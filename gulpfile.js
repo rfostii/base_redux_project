@@ -38,9 +38,9 @@ gulp.task('build', function() {
                     react: 'react'
                 }
             },
-			jsdom: {
-				path: '/node_modules/jsdom/lib/jsdom.js',
-				exports: 'jsdom'
+			immutable: {
+				path: '/node_modules/immutable/dist/immutable.min.js',
+				exports: 'immutable'
 			}
           }
     })	
