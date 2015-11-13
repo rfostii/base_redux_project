@@ -1,0 +1,19 @@
+{
+  "name": "ua-challenge-task",
+  "version": "0.0.0",
+  "authors": [],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": ""
+  }
+}

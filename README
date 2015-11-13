@@ -1,0 +1,6 @@
+to deploy app use next commands
+
+1) cd 'path to folder with project'
+2) npm i
+3) bower install
+4) gulp dev
